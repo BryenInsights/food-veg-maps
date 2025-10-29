@@ -1,0 +1,14 @@
+frontend/node_modules/
+.env
+.env.local
+frontend/.env.local
+frontend/.env
+frontend/.next/
+frontend/public/
+frontend/out/
+frontend/build/
+frontend/next-env.d.ts
+frontend/next.config.ts
+frontend/tsconfig.json
+frontend/tsconfig.app.json
+frontend/tsconfig.json
